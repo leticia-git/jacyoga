@@ -2,7 +2,7 @@
 
 function add_styles_and_scripts()
 {
-  $versao = '2.4.7';
+  $versao = '2.4.8';
   wp_enqueue_script('jquery', get_template_directory_uri() . '/assets/dist/js/jquery.min.js', array(), $versao, true);
   wp_enqueue_script('script', get_template_directory_uri() . '/assets/src/js/app.js', array('jquery'), $versao, true);
   wp_enqueue_script('mask', get_template_directory_uri() . '/assets/src/js/app.js', array('jquery'), $versao, true);

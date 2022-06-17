@@ -6,7 +6,10 @@ Template Name: Contato
 <?php get_header(); ?>
 
 <div class="dg-grid">
+    <div class="contato-titulo">
     <h3>Entre em contato e agende sua aula</h3>
+    </div>
+    
     <div class="contatos">
     <div class="formulario">
         <p>ENVIE SUA MENSAGEM</p>

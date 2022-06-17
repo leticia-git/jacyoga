@@ -15,7 +15,7 @@ Template Name: Home
 				<h4 class="titulo-post">A BASE DO MÉTODO JACYOGA</h4>
 				<p class="texto-post">O método está baseado nas principais escolas do Yoga, que são Hatha Yoga e Vinyasa Yoga.</p>
 				<div class="pt-botao">
-					<a class="botao-post" href="#">Saiba mais</a>
+					<a class="botao-post" target="_blank" href="https://jacyoga.com/a-base-do-metodo-jacyoga/">Saiba mais</a>
 				</div>
 			</div>
 			<div class="post-dois">
@@ -23,7 +23,7 @@ Template Name: Home
 				<h4 class="titulo-post">CARACTERÍSTICAS DOS ÁSANAS</h4>
 				<p class="texto-post">Os ásanas são posturas psicofísicas que buscam trabalhar a estabilidade física, mental e energética.</p>
 				<div class="pt-botao">
-					<a class="botao-post" href="#">Saiba mais</a>
+					<a class="botao-post" target="_blank" href="https://jacyoga.com/caracteristicas-dos-asanas/">Saiba mais</a>
 				</div>
 			</div>
 			<div class="post-tres">
@@ -31,7 +31,7 @@ Template Name: Home
 				<h4 class="titulo-post">YOGA SUTRAS- A RAIZ DO YOGA</h4>
 				<p class="texto-post">O Yoga clássico de Patanjali possui mais de 2 mil anos e é considerado um Yoga intelectual.</p>
 				<div class="pt-botao">
-					<a class="botao-post" href="#">Saiba mais</a>
+					<a class="botao-post" target="_blank" href="https://jacyoga.com/yoga-sutras-a-raiz-do-yoga/">Saiba mais</a>
 				</div>
 			</div>
 		</div>
@@ -83,7 +83,6 @@ Template Name: Home
 			<div class="titulo">
 				<img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/dist/images/Geral/top.png" alt="">
 			</div>
-			<hr>
 			<div class="circulos">
 				<div class="topicos">
 					<img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/dist/images/Geral/auto.png" alt="">
@@ -108,7 +107,7 @@ Template Name: Home
 			</div>
 		</div>
 		<div class="depoimentos">
-			
+		<?php echo do_shortcode( '[TEST_B id=3382]' ) ?>		
 		</div>
 	</div>
 

@@ -1,4 +1,4 @@
-<footer class="dg-footer" style="background-image: url('<?php echo get_stylesheet_directory_uri(); ?>/assets/dist/images/Geral/footer.png');background-repeat: no-repeat;background-size: cover;">
+<footer class="dg-footer" style="background-image: url('<?php echo get_stylesheet_directory_uri(); ?>/assets/dist/images/Geral/footer.png');background-repeat: no-repeat;background-size: cover; background-position: center; background-repeat: no-repeat; background-size: cover;">
     <div class="dg-grid">
         <div class="col-um">
             <strong>Sobre as aulas</strong>
@@ -47,7 +47,7 @@
 
 </footer>
 <div class="tm">
-   Copyright © 2020  TODOS OS DIREITOS RESERVADOS. © 2020 Jacyoga
+   Copyright © 2022  TODOS OS DIREITOS RESERVADOS. © 2022 Jacyoga
 </div>
 <?php wp_footer(); ?>
 

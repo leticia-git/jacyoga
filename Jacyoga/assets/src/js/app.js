@@ -31,7 +31,9 @@ const hamburger = document.querySelector(".hamburger");
       arrows: false,
       autoplay: false,
       autoplaySpeed: 2000,
+      
     }
+
   );
 });
 

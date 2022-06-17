@@ -7,7 +7,7 @@ Template Name: Blog
 
 <div class="dg-grid">
     <div class="row">
-        <div class="col-4">
+        <div>
             <div class="posts">
                 <?php
                 $newsArgs = array(
@@ -17,7 +17,7 @@ Template Name: Blog
                 $newsLoop = new WP_Query($newsArgs);
                 while ($newsLoop->have_posts()) : $newsLoop->the_post();
                 ?>
-                    <div class="post">
+                    <div class="post col-md-4">
                         <div class="dg-img-badge">
                             <a href="<?php the_permalink(); ?>"><img src="<?php the_post_thumbnail_url() ?>" alt=""></a>
                         </div>
