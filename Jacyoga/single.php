@@ -2,7 +2,7 @@
 <div class="dg-grid">
 <div class="dg-foto">
     <div class="dg-img-prod">
-        <img src="<?php the_post_thumbnail_url() ?>" alt="">
+     <img src="<?php the_field('img'); ?>" alt="">
     </div>
 </div>
 <div class="dg-texto-prod">

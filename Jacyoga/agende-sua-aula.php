@@ -6,6 +6,7 @@ Template Name: Agende sua aula
 <?php get_header(); ?>
 
 <div class="dg-grid">
+    <div class="conteudo-agende">
     <h1>
         FORMULÁRIO DE ANAMNESE
     </h1>
@@ -15,6 +16,8 @@ Template Name: Agende sua aula
     <div class="anamnese">
         <a href="https://docs.google.com/forms/d/e/1FAIpQLSdeljoXtZUzElGFsBbWM8qNHV_Aj70y0bo58elZdS9m1fmy8w/viewform" target="_blank">Formulário</a>
     </div>
+    </div>
+
 </div>
 
 <?php get_footer(); ?>
