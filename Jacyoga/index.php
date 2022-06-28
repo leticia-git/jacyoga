@@ -106,11 +106,68 @@ Template Name: Home
 				</div>
 			</div>
 		</div>
-		<div class="depoimentos">
-		<?php echo do_shortcode( '[TEST_B id=3382]' ) ?>		
-		</div>
+		<!-- <div class="depoimentos">
+			<div class="row">
+				<div class="col">
+					<div class="foto">
+						<img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/dist/images/Geral/depoimento1.jpeg" alt="">
+					</div>
+					<div class="texto">
+						<p class="texto">Jaci, fico muito feliz de poder fazer esse depoimento!!! Quando comecei a fazer as aulas fui sem grandes expectativas, por achar que era algo difícil e que talvez não fosse para mim. Mas logo na primeira aula pude sentir os benefícios do Yoga, tanto mentais quanto físicos. Você desde o começo torna as aulas muito acessíveis para cada um, explica os fundamentos do yoga que levo até mesmo no meu dia dia! E sempre me lembro de fazer as aulas sem dor mas com VIGOR. 😄
+							A prática me traz o descanso e a conexão que preciso depois de um dia corrido, ali consigo me centrar novamente.
+
+							As aulas fizeram tanta diferença que quero me dedicar ainda mais ao Yoga.
+
+							Gratidão por compartilhar seus conhecimentos e trazer esse momento de paz nas minhas semanas, espero que você possa levar isso para muitas pessoas ✨🙏💙</p>
+					</div>
+					<div class="nome">
+						<p>Larissa</p>
+					</div>
+				</div>
+				<div class="col">
+					<div class="foto">
+						<img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/dist/images/Geral/depoimento2.jpeg" alt="">
+					</div>
+					<div class="texto">
+						<p class="texto">A prática do yoga me trás mto equilíbrio, relaxamento é o momento de entrega conhecer meus limites e concentração total viver meu momento. Prof transmite mto equilíbrio paz luz serenidade e conhecedora naquilo que faz.❤️🤍🧡</p>
+					</div>
+					<div class="nome">
+						<p>Marizete</p>
+					</div>
+				</div>
+				<div class="col">
+					<div class="foto">
+						<img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/dist/images/Geral/depoimento3.jpeg" alt="">
+					</div>
+					<div class="texto">
+						<p class="texto">Minha experiência de aula de yoga foi espetacular com a Jaci. Uma pessoa que consegue transmitir o conhecimento com leveza e profundidade. Não ha como explicar a conexão que tenho com a sua aula e o que o yoga me proporcionou através de suas aulas, tanto que me inspirou a fazer um curso de formação.</p>
+					</div>
+					<div class="nome">
+						<p>Roberta</p>
+					</div>
+				</div>
+				<div class="col">
+					<div class="foto">
+						<img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/dist/images/Geral/depoimento3.jpeg" alt="">
+					</div>
+					<div class="texto">
+						<p class="texto">Eu já conhecia a Yoga mas depois que comecei a treinar com a Jaci senti que é muito mais profundo. A Yoga traz o equilíbrio de corpo e mente .A Jaci respeita e acompanha o limite de cada aluno .
+							Uma frase que aprendi com ela : ...."na Yoga não tem que ter dor mas tem vigor"... rsrsrs
+							Jaci ..imensa Gratidão 🙏🏻🙏🏻</p>
+					</div>
+					<div class="nome">
+						<p>Silvana</p>
+					</div>
+				</div>
+			</div>
+		</div> -->
 	</div>
 
+
+
+
 </main>
+
+
 
 <?php get_footer(); ?>
