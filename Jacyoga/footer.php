@@ -24,15 +24,15 @@
             <strong>Informações de contato</strong>
             <div class="local">
                 <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/dist/images/Geral/local.png" alt="">
-              <a href=""><p>Av. Paes de Barros, 436  </br>Cambuci São Paulo - SP, 03114-000.</p></a>  
+              <a href="https://goo.gl/maps/65u7gjQsLjVk5hRk6" target="_blank"><p>Av. Paes de Barros, 436  </br>Cambuci São Paulo - SP, 03114-000.</p></a>  
             </div>
             <div class="email">
                 <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/dist/images/Geral/email.png" alt="">
-             <a href=""><p>jacilene.ll@gmail.com</p></a>   
+             <a href="mailto:jacilene.ll@gmail.com" target="_blank"><p>jacilene.ll@gmail.com</p></a>   
             </div>
             <div class="tel">
                 <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/dist/images/Geral/tel.png" alt="">
-              <a href=""><p>(11) 98387-0091</p></a>  
+              <a href="https://api.whatsapp.com/send?phone=5511983870091&text=Ol%C3%A1%20%3A)%20Fale%20com%20a%20professora%2C%20e%20agende%20sua%20aula!" target="_blank"><p>(11) 98387-0091</p></a>  
             </div>
             <div class="redes">
                 <div class="face">

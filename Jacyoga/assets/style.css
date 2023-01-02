@@ -1156,3 +1156,34 @@ body{
        margin-top: 25px;
     }
 }
+.slick-slide img {
+    width: 100px;
+}
+.col .texto {
+    background-color: rgb(245,244,244);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 15px;
+}
+.depoimento img{
+    padding: 0 10px;
+}
+.depoimento .nome{
+    padding: 0 10px;
+} 
+.depoimentos {
+    margin-bottom: 50px;
+}
+
+.slick-arrow::before{
+    color: rgb(109,108,108);
+}
+@media(max-width: 991px){
+    .depoimento 
+    {
+        padding: 25px;
+    }
+    .jacy {
+        padding: 10px;
+    }
+}

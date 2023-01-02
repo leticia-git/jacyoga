@@ -130,7 +130,7 @@
 									Entre em contato com a </br> professora e agende sua aula</br> experimental.
 								</div>
 								<div class="botao">
-									<a href="#">Agende sua Aula</a>
+									<a href="https://jacyoga.com/agende-sua-aula/">Agende sua Aula</a>
 								</div>
 							</div>
 						</div>
@@ -147,7 +147,7 @@
 									O Estúdio tem uma excelente localização e um ambiente acolhedor.
 								</div>
 								<div class="botao">
-									<a href="#">Saiba Mais</a>
+									<a href="https://jacyoga.com/o-estudio/">Saiba Mais</a>
 								</div>
 							</div>
 						</div>
@@ -165,7 +165,7 @@
 									Hatha Yoga e Vinyasa Yoga.
 								</div>
 								<div class="botao">
-									<a href="#">Saiba Mais</a>
+									<a href="https://jacyoga.com/sobre-o-metodo/">Saiba Mais</a>
 								</div>
 							</div>
 						</div>
